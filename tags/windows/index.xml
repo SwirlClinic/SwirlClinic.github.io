@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Windows on Eric&#39;s Personal Blog</title>
+    <link>https://blog.erictrang.com/tags/windows/</link>
+    <description>Recent content in Windows on Eric&#39;s Personal Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 05 Jun 2020 21:34:52 -0700</lastBuildDate>
+    
+  <atom:link href="https://blog.erictrang.com/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Windows &amp; Mac: United at Long Last</title>
+      <link>https://blog.erictrang.com/post/windowsmac2in1/</link>
+      <pubDate>Fri, 05 Jun 2020 21:34:52 -0700</pubDate>
+      
+      <guid>https://blog.erictrang.com/post/windowsmac2in1/</guid>
+      <description>Playing GTAV on Windows, while running MacOS. All in one computer.
+…Why? I have an iPhone, Apple Watch, Airpods, and Macbook Pro but sadly no Desktop Mac… until now.</description>
+    </item>
+    
+  </channel>
+</rss>

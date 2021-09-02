@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eric&#39;s Personal Blog</title>
+    <link>https://blog.erictrang.com/</link>
+    <description>Recent content on Eric&#39;s Personal Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 05 Jun 2020 21:34:52 -0700</lastBuildDate>
+    
+  <atom:link href="https://blog.erictrang.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Windows &amp; Mac: United at Long Last</title>
+      <link>https://blog.erictrang.com/post/windowsmac2in1/</link>
+      <pubDate>Fri, 05 Jun 2020 21:34:52 -0700</pubDate>
+      
+      <guid>https://blog.erictrang.com/post/windowsmac2in1/</guid>
+      <description>Playing GTAV on Windows, while running MacOS. All in one computer.
+…Why? I have an iPhone, Apple Watch, Airpods, and Macbook Pro but sadly no Desktop Mac… until now.</description>
+    </item>
+    
+    <item>
+      <title>Configuration for CS:GO, Overwatch, etc</title>
+      <link>https://blog.erictrang.com/post/csgosetting/</link>
+      <pubDate>Sat, 16 May 2020 12:33:52 -0700</pubDate>
+      
+      <guid>https://blog.erictrang.com/post/csgosetting/</guid>
+      <description>Posting my settings here in case I lose them or want to reference on another machine.
+Counter-Strike: Global Offensive (CS:GO) Client Cvars  sensitivity 2.</description>
+    </item>
+    
+    <item>
+      <title>Wagyu Mafia 🐄</title>
+      <link>https://blog.erictrang.com/post/wagyumafia_2019/</link>
+      <pubDate>Fri, 08 May 2020 16:42:13 -0700</pubDate>
+      
+      <guid>https://blog.erictrang.com/post/wagyumafia_2019/</guid>
+      <description>You have probably seen these sandwiches pop up on youtube trending. They’re pretty good, straight up sandwiches with wagyu in it.</description>
+    </item>
+    
+    <item>
+      <title>The Perfect Japanese Curry 🍛</title>
+      <link>https://blog.erictrang.com/post/japan2019/</link>
+      <pubDate>Fri, 08 May 2020 15:04:20 -0700</pubDate>
+      
+      <guid>https://blog.erictrang.com/post/japan2019/</guid>
+      <description>If you’re looking for the best Japanese curry, then look no further. Little Shop Curry is a no nonsense curry restauraunt that doesn’t lie about its name, it is really small!</description>
+    </item>
+    
+  </channel>
+</rss>
