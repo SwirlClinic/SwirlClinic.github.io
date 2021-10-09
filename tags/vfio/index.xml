@@ -1,25 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>VFIO on Eric&#39;s Personal Blog</title>
-    <link>https://blog.erictrang.com/tags/vfio/</link>
-    <description>Recent content in VFIO on Eric&#39;s Personal Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Fri, 05 Jun 2020 21:34:52 -0700</lastBuildDate>
-    
-  <atom:link href="https://blog.erictrang.com/tags/vfio/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Windows &amp; Mac: United at Long Last</title>
-      <link>https://blog.erictrang.com/post/windowsmac2in1/</link>
-      <pubDate>Fri, 05 Jun 2020 21:34:52 -0700</pubDate>
-      
-      <guid>https://blog.erictrang.com/post/windowsmac2in1/</guid>
-      <description>Playing GTAV on Windows, while running MacOS. All in one computer.
-…Why? I have an iPhone, Apple Watch, Airpods, and Macbook Pro but sadly no Desktop Mac… until now.</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>VFIO on Eric's Blog</title><link>https://blog.erictrang.com/tags/vfio/</link><description>Recent content in VFIO on Eric's Blog</description><image><url>https://blog.erictrang.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url><link>https://blog.erictrang.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link></image><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 05 Jun 2020 21:34:52 -0700</lastBuildDate><atom:link href="https://blog.erictrang.com/tags/vfio/index.xml" rel="self" type="application/rss+xml"/><item><title>Windows &amp; Mac: United at Long Last</title><link>https://blog.erictrang.com/post/windowsmac2in1/</link><pubDate>Fri, 05 Jun 2020 21:34:52 -0700</pubDate><guid>https://blog.erictrang.com/post/windowsmac2in1/</guid><description>Playing GTAV on Windows, while running MacOS. All in one computer.
+&amp;hellip;Why? I have an iPhone, Apple Watch, Airpods, and Macbook Pro but sadly no Desktop Mac&amp;hellip; until now. Solutions to docking my Macbook into my monitor using a dongle or eGPU seemed gross. Plus, I saw Linus do it and thought it&amp;rsquo;d be cool 😎
+Credits to Linus Tech Tips I also sometimes need to use a Mac.</description></item></channel></rss>
